@@ -1,7 +1,7 @@
 a = int(input())
 b = int(input())
 
-if(b>a):
-    print(b)
-else:
+if(a > b):
     print(a)
+else:
+    print(b)
